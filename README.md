@@ -1,4 +1,4 @@
-## Personal Researching Resources.
+## Personal Researching Resources
 #### Python
 - [Python behind the scenes](https://tenthousandmeters.com/tag/python-behind-the-scenes/): this blog explains how Python is parsed to AST, compiled, executed by CPython VM; GIL; ...
 
